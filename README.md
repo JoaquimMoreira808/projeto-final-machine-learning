@@ -174,7 +174,7 @@ O navegador abrirá automaticamente na interface da aplicação.
 ---
 
 ## Link do App Publicado
-- **Streamlit Cloud:** [INSERIR LINK APÓS O DEPLOY]
+- **Streamlit Cloud:** [https://projeto-final-machine-learning.streamlit.app](https://projeto-final-machine-learning.streamlit.app)
 
 ---
 
